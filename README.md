@@ -41,14 +41,23 @@
 
 ## 📸 Скриншоты
 
-### Главный экран
-![Главный экран](https://postimg.cc/vcdkkC3x)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.postimg.cc/Fsfvd4Sp/image.png" width="90%"/><br>
+      <b>Главный экран</b>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/bwpj62MC/image.png" width="90%"/><br>
+      <b>Детали локации</b>
+    </td>
+    <td align="center">
+      <img src="https://i.postimg.cc/bvFcNVvW/image.png" width="90%"/><br>
+      <b>Профиль пользователя</b>
+    </td>
+  </tr>
+</table>
 
-### Детали локации
-![Детали локации](https://postimg.cc/3dS6NW3m)
-
-### Профиль пользователя
-![Профиль пользователя](https://postimg.cc/ns7w3kBG)
 
 ## 🚀 Установка и запуск
 
