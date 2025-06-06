@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tourist in Russia</string>
+    <string name="places">Места</string>
+    <string name="map">Карта</string>
+    <string name="profile">Профиль</string>
+</resources>
