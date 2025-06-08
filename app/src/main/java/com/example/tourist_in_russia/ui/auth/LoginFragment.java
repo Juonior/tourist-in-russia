@@ -55,15 +55,6 @@ public class LoginFragment extends Fragment {
         binding.registerButton.setOnClickListener(v -> {
             Navigation.findNavController(view).navigate(R.id.action_loginFragment_to_registerFragment);
         });
-        
-        // Set hints for input fields if they are set in code
-        // Check your dialog_login.xml for actual hints
-        // if (binding.usernameInput.getHint() != null && binding.usernameInput.getHint().equals("Username")) {
-        //     binding.usernameInput.setHint("Имя пользователя");
-        // }
-        // if (binding.passwordInput.getHint() != null && binding.passwordInput.getHint().equals("Password")) {
-        //     binding.passwordInput.setHint("Пароль");
-        // }
     }
 
     private void login() {

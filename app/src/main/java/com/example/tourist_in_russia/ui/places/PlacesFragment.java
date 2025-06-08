@@ -36,8 +36,8 @@ public class PlacesFragment extends Fragment {
     private Double selectedLongitude;
     private androidx.appcompat.app.AlertDialog createPlaceDialog;
     private TextView locationText;
-    private String tempPlaceName; // Temporary storage for place name
-    private String tempPlaceDescription; // Temporary storage for place description
+    private String tempPlaceName;
+    private String tempPlaceDescription;
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
